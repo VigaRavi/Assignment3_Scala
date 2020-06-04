@@ -1,3 +1,8 @@
+//Question 4
+
+
+
+
 object Find_no{
 
    def main(args: Array[String]) {
