@@ -1,3 +1,8 @@
+
+//Question 1
+
+
+
 object Prime_num {
    def main(args: Array[String]) {
      
