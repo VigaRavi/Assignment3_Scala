@@ -1,3 +1,6 @@
+//Question 6
+
+
 object fibonacci {
    def main(args: Array[String]) {
      
