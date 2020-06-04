@@ -1,3 +1,7 @@
+//Question 2
+
+
+
 object primenos{
 
 
